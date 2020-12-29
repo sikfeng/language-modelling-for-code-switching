@@ -1,0 +1,14 @@
+*.json
+*.pt
+*.log
+*.txt
+**/__pycache__
+table1/models/*
+table2/models/*
+table3/models/*
+table4/*/models/*
+table6/models/*
+data_generation/datasets/*
+!data_generation/datasets/README.md
+data_generation/dictionaries/*
+!data_generation/dictionaries/README.md
